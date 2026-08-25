@@ -131,6 +131,9 @@ label {
   .product-card{
     width: 40%;
   }
+  body{
+      font-family: cursive;
+  }
 }
 @media (max-width: 600px){
   .column{
@@ -138,5 +141,8 @@ label {
   }
   .product-card{
     max-width: 100%;
+  }
+  body{
+      font-family: cursive;
   }
 }
