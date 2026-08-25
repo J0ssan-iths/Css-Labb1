@@ -1,0 +1,142 @@
+header {
+  background-color: pink;
+  color: rgb(156, 53, 70);
+  margin-bottom: 15px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  text-align: center;
+  border-bottom: 3px solid rgb(156, 53, 70);
+}
+h1 {
+  font-size: x-large;
+}
+img {
+  object-fit: cover;
+  display: inline;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.logo {
+  display: inline;
+  width: 70px;
+  height: 70px;
+}
+nav {
+  display: inline-block;
+  line-height: 30px;
+}
+a {
+  color: rgb(156, 53, 70);
+}
+body {
+  margin: 0px;
+  font-family: cursive;
+}
+main {
+  background-color: antiquewhite;
+  color: rgb(156, 53, 70);
+  margin-bottom: 15px;
+  padding: 15px;
+  align-items: center;
+  place-items: center;
+  text-align: center;
+  max-width: 100%;
+  margin: auto;
+}
+footer {
+  display: block;
+  position: sticky;
+  background-color: pink;
+  color: rgb(156, 53, 70);
+  height: 40px;
+  text-align: center;
+}
+section {
+  display: block;
+  padding: 20px;
+}
+form {
+  margin-top: 15px;
+  padding: 10px;
+  border: 3px solid rgb(156, 53, 70);
+}
+video {
+  margin-top: 20px;
+  width: 200px;
+}
+button {
+  background-color: antiquewhite;
+  color: rgb(156, 53, 70);
+}
+.send-button {
+  background-color: pink;
+  color: rgb(156, 53, 70);
+}
+label {
+  display: block;
+}
+.form-test {
+  margin-top: 15px;
+  padding: 10px;
+  border: 3px solid rgb(156, 53, 70);
+}
+.products {
+  background-color: pink;
+  border: 2px solid;
+  margin: 10px;
+  padding: 15px;
+  max-width: auto;
+  display: inline-block;
+}
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: top;
+  place-content: center;
+}
+.product-card {
+  border: 2px solid rgb(156, 53, 70);
+  padding: 10px;
+  background-color: rgb(246, 215, 220);
+  width: 300px;
+  max-width: 100%;
+  position: relative;
+  box-sizing: border-box;
+}
+.badge{
+  background-color: rgb(99, 26, 38);
+  color: antiquewhite;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 5px;
+  padding: 3px;
+  border-radius: 9px;
+}
+.featured-products{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: top;
+  max-width: 100%;
+  box-sizing: border-box;
+  gap: 10px;
+}
+@media (min-width: 600px) and (max-width: 900px) {
+  .column{
+    width: 50%;
+  }
+  .product-card{
+    width: 40%;
+  }
+}
+@media (max-width: 600px){
+  .column{
+    width: 100%
+  }
+  .product-card{
+    max-width: 100%;
+  }
+}
