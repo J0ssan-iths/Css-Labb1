@@ -32,7 +32,7 @@ a {
 }
 body {
   margin: 0px;
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
 }
 main {
   background-color: antiquewhite;
@@ -106,7 +106,7 @@ label {
   position: relative;
   box-sizing: border-box;
 }
-.badge{
+.badge {
   background-color: rgb(99, 26, 38);
   color: antiquewhite;
   position: absolute;
@@ -116,7 +116,7 @@ label {
   padding: 3px;
   border-radius: 9px;
 }
-.featured-products{
+.featured-products {
   display: flex;
   flex-wrap: wrap;
   align-items: top;
@@ -125,24 +125,18 @@ label {
   gap: 10px;
 }
 @media (min-width: 600px) and (max-width: 900px) {
-  .column{
+  .column {
     width: 50%;
   }
-  .product-card{
+  .product-card {
     width: 40%;
   }
-  body{
-      font-family: cursive;
-  }
 }
-@media (max-width: 600px){
-  .column{
-    width: 100%
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
   }
-  .product-card{
+  .product-card {
     max-width: 100%;
-  }
-  body{
-      font-family: cursive;
   }
 }
