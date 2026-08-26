@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "title": "Powerless",
+    "author": "Lauren Roberts",
+    "description": "Powerless skriven av Lauren Roberts, första boken i trilogin.",
+    "price": "100kr",
+    "url": "https://images.unsplash.com/photo-1771576741909-d0bf6f60fb05?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG93ZXJsZXNzJTIwYm9va3xlbnwwfHwwfHx8MA%3D%3D",
+    "imageAlt": "Bild på boken Powerless",
+    "badge": "Populär",
+    "cart": "Lägg i varukorg",
+    "category": "book"
+  },
+  {
+    "id": 1,
+    "title": "Boxset The Folk Of The Air",
+    "author": "Holly Black",
+    "description": "Boxset med hela triologin The Folk of the Air av Holly Black",
+    "price": "400kr",
+    "url": "https://images.unsplash.com/photo-1771576741735-2a1c6d39ccf8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTd8fHxlbnwwfHx8fHw%3D",
+    "imageAlt": "Bild på trilogin The Folk of the Air",
+    "badge": "Populär",
+    "cart": "Lägg i varukorg",
+    "category": "book"
+  },
+  {
+    "id": 2,
+    "title": "Boxset The Hunger Games",
+    "author": "Suzanne Collins",
+    "description": "Boxset med hela triologin The Hunger Games av Suzanne Collins",
+    "price": "350kr",
+    "url": "https://images.unsplash.com/photo-1711185893913-e487b29cdef5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NHx8fGVufDB8fHx8fA%3D%3D",
+    "imageAlt": "Bild på The Hunnger Games serien",
+    "cart": "Lägg i varukorg",
+    "category": "book"
+  },
+  {
+    "id": 3,
+    "title": "Bokmärken i olika färger",
+    "description": "Bokmärken i olika färger o mönster, säljes styckvis.",
+    "price": "30kr/st",
+    "url": "https://images.unsplash.com/photo-1561865406-62a037159577?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ym9va21hcmt8ZW58MHx8MHx8fDA%3D",
+    "imageAlt": "Bild på bokmärken i olika mönster och färger",
+    "cart": "Lägg i varukorg",
+    "category": "accessory"
+  },
+  {
+    "id": 4,
+    "title": "Bokmärke vågor",
+    "author": "",
+    "description": "Bokmärke med blå vågor",
+    "price": "50kr/st",
+    "url": "https://images.unsplash.com/photo-1743482709788-8cb9d9779816?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJvb2ttYXJrfGVufDB8fDB8fHww",
+    "imageAlt": "Bild på bokmärke i blått med vågor",
+    "badge": "Nyhet",
+    "cart": "Lägg i varukorg",
+    "category": "accessory"
+  }
+]
